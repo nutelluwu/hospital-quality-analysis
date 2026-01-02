@@ -26,10 +26,7 @@ This project analyzes hospital quality of care using Medicare Hospital Readmissi
 - Statistical hypothesis testing (t-test, ANOVA)
 - Visualizations to communicate insights
 
-## How to Run
-1. Open the Jupyter Notebook
-2. Run cells from top to bottom
-3. Ensure required Python libraries are installed
+
 
 ## Author
 Nitya
